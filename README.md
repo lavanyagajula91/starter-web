@@ -14,6 +14,6 @@
 ...> This is a git project.
 
 ##how to contribute
-
+Please fork this repository and then issue pull requests for review.
 ### Copyright
 2020 Git.Training
