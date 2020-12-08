@@ -14,3 +14,6 @@
 ...> This is a git project.
 
 ##how to contribute
+
+### Copyright
+2020 Git.Training
