@@ -1,4 +1,4 @@
 # robotstxt.org/
 #narendra234
 User-agent: *
-narendra vungarala
+narendra vungarala1
