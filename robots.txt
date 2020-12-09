@@ -1,14 +1,5 @@
 # robotstxt.org/
-<<<<<<< HEAD
+
 #narendra23
 User-agent: *
 narendra vungarala
-=======
-#narendra234
-User-agent: *
-<<<<<<< HEAD
-narendra vungarala1
->>>>>>> 5bfe51b3caf89f2d955fb58de72a8f3a913a19ce
-=======
-narendra vungarala
->>>>>>> b5aa9db819e3aa635ef05b668a4729072a9014e7
